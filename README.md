@@ -1,2 +1,1 @@
-# Assignment_2
-Infrastructure setup 
+# MLOps Course Projector
