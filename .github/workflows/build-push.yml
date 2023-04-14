@@ -1,6 +1,6 @@
 name: Fast Api docker build push
 on:
-  push:
+  pull_request:
     branches: [ main ]
 
 jobs:
